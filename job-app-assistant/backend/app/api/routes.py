@@ -101,7 +101,7 @@ async def get_jobs(
         jobs, skills, match_keywords,
         min_score=min_score,
         location_terms=location_terms,
-        filter_non_matching=True,
+        filter_non_matching=False,
     )
 
     return JobsResponse(
