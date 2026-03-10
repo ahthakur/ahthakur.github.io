@@ -1,0 +1,32 @@
+# User configuration for Job Application Assistant
+# Copy to user_config.yaml and customize
+
+# GitHub raw URL to your resume (PDF or Markdown)
+resume_url: "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/resume.pdf"
+
+# Keywords to search for in job postings (used for discovery + matching)
+keywords:
+  - "cloud security"
+  - "compliance"
+  - "Kubernetes"
+  - "SOC 2"
+  - "infrastructure"
+
+# Skills to match against job descriptions (for scoring)
+skills:
+  - "Cloud Security"
+  - "Kubernetes"
+  - "Compliance"
+  - "SOC 2"
+  - "HIPAA"
+  - "PCI"
+  - "Terraform"
+  - "CI/CD"
+  - "Automation"
+  - "Python"
+  - "Microservices"
+
+# Location filter for job search (e.g. "Austin", "Remote", "San Francisco")
+locations:
+  - "Austin"
+  - "Remote"
