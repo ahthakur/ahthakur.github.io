@@ -1,4 +1,4 @@
-# Job Application Assistant
+# Job Application Assistant using cursor
 
 A **ToS-compliant** job discovery and profile tool that helps you find jobs from Adzuna, Greenhouse, and Lever, match them to your skills, and quickly copy your profile data for applications. No scraping—uses official APIs only.
 
